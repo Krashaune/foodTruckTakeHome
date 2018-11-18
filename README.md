@@ -1,27 +1,27 @@
 # HOW TO
 
-## HOW TO INSTALL DEPENDENCIES
+### HOW TO INSTALL DEPENDENCIES
   1. $ npm install axios
   2. $ npm install prompt
   3. $ npm install easy-table
 
-## HOW TO BUILD PROGRAM
+### HOW TO BUILD PROGRAM
   A function is already set up to build the program.
   Follow the run program command and the build will be taken care of.
-## HOW TO RUN PROGRAM
+### HOW TO RUN PROGRAM
   $ node foodTruck.js
 
-## CHALLENGE OVERVIEW
+### CHALLENGE OVERVIEW
   Create a program that will print out a list of food trucks
 
-### DATA SOURCE
+#### DATA SOURCE
    From SanFranciso govt. site https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b
 
-### API RESOURCE
+#### API RESOURCE
   Mobile Food Schedule API
     https://dev.socrata.com/foundry/data.sfgov.org/bbb8-hzi6
 
-### PROBLEM
+#### PROBLEM
   Write a command line program that prints out a list of food trucks that are
   open at the current date, when the program is being run. So if I run the
   program at noon on a Friday, I should see a list of all the food trucks that
