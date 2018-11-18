@@ -27,7 +27,7 @@
   program at noon on a Friday, I should see a list of all the food trucks that
   are open then.
 
-  Additional notes
+  * Additional notes
     1. Please display the name and address of the trucks and sort the output
        alphabetically by name.
     2. Please display results in pages of 10 trucks.
