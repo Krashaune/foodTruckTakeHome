@@ -126,8 +126,6 @@ function moreResults(openTrucks) {
   async function foodTrucksOpenNow() {
     getDate();
     getAllFoodTrucks();
-    console.log(dayOfWeek);
-    console.log(time);
     prompt.start();
   }
 
